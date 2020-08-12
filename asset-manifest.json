@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-custom-hook-table/static/css/main.30e5ee41.chunk.css",
+    "main.js": "/react-custom-hook-table/static/js/main.9917e4de.chunk.js",
+    "main.js.map": "/react-custom-hook-table/static/js/main.9917e4de.chunk.js.map",
+    "runtime-main.js": "/react-custom-hook-table/static/js/runtime-main.efec1304.js",
+    "runtime-main.js.map": "/react-custom-hook-table/static/js/runtime-main.efec1304.js.map",
+    "static/js/2.13f03ad0.chunk.js": "/react-custom-hook-table/static/js/2.13f03ad0.chunk.js",
+    "static/js/2.13f03ad0.chunk.js.map": "/react-custom-hook-table/static/js/2.13f03ad0.chunk.js.map",
+    "index.html": "/react-custom-hook-table/index.html",
+    "precache-manifest.6938419e7fbe6ae8ce305b14bea148df.js": "/react-custom-hook-table/precache-manifest.6938419e7fbe6ae8ce305b14bea148df.js",
+    "service-worker.js": "/react-custom-hook-table/service-worker.js",
+    "static/css/main.30e5ee41.chunk.css.map": "/react-custom-hook-table/static/css/main.30e5ee41.chunk.css.map",
+    "static/js/2.13f03ad0.chunk.js.LICENSE.txt": "/react-custom-hook-table/static/js/2.13f03ad0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efec1304.js",
+    "static/js/2.13f03ad0.chunk.js",
+    "static/css/main.30e5ee41.chunk.css",
+    "static/js/main.9917e4de.chunk.js"
+  ]
+}
